@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/NetworkChecker/bin/Release/NetworkChecker.exe.config
+/NetworkChecker/bin/Release/NetworkChecker.vshost.exe.config
+/NetworkChecker/bin/Debug/NetworkChecker.exe.config
+/NetworkChecker/bin/Debug/NetworkChecker.vshost.exe.config
+/NetworkCheckerService/bin/Release/NetworkCheckerService.exe.config
+/NetworkCheckerService/bin/Release/NetworkCheckerService.vshost.exe.config
+/NetworkCheckerService/bin/Debug/NetworkCheckerService.exe.config
+/NetworkCheckerService/bin/Debug/NetworkCheckerService.vshost.exe.config
+*.manifest
+*.xml
+*.txt
+*.pdb
