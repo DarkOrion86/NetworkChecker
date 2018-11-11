@@ -1,10 +1,8 @@
 # NetworkChecker
 This is a tool, that checks network devices and works with Prometheus-net
-Right now it checks devices only by ping. 
 
 Configuration of app or service located in file config.ini
 This is exammple of it:
-
 "PushGatewayURL=http://localhost:9091/metrics
 PushGatewayIsON=1
 ServerMetricsIsON=1
