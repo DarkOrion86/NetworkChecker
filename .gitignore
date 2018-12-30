@@ -38,7 +38,11 @@
 /NetworkCheckerService/bin/Release/NetworkCheckerService.vshost.exe.config
 /NetworkCheckerService/bin/Debug/NetworkCheckerService.exe.config
 /NetworkCheckerService/bin/Debug/NetworkCheckerService.vshost.exe.config
+packages/
 *.manifest
 *.xml
 *.txt
 *.pdb
+.vs/
+NetworkChecker/obj/
+NetworkCheckerService/obj/
